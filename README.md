@@ -6,18 +6,18 @@
 [opera-icon]: https://github.com/alrra/browser-logos/blob/main/src/opera/opera_64x64.png
 [safari-icon]: https://github.com/alrra/browser-logos/blob/main/src/safari/safari_64x64.png
 
-# Next TypeScript & shadcn/ui — Template
+# Pentaomnia.com
 
-This development starter template is the ultimate solution to help you getting started on your project in no time, without the hassle of setting up and configuring your development environment from scratch each time you start working.
-This repository is ideal for front-end developers who want to build modern, fast and reliable web applications with the latest cutting edge technologies such as **Next.js**, **TypeScript**, **shadcn/ui**, **TailwindCSS**, **ESLint**, **Prettier**, **Husky** and much more!
+This website was created for the Bihar-based startup Pentaomnia.com. It leverages modern web technologies such as **Next.js**, **React**, **TypeScript**, **shadcn/ui**, **TailwindCSS**, and **SASS** to deliver a robust and scalable web application.
 
 ---
-
 
 ## :bookmark: Table of contents
 
 - :computer: [Getting started](#computer-getting-started "Go to 'Getting started' section")
 - :battery: [Features](#battery-features "Go to 'Features' section")
+- :camera: [Preview](#camera-preview "Go to 'Preview' section")
+- :lock: [License](#lock-license "Go to 'License' section")
 
 ---
 
@@ -50,6 +50,7 @@ This repository is ideal for front-end developers who want to build modern, fast
 This repository comes 🔋 packed with:
 
 - **Next.js**;
+- **React**;
 - **TypeScript**;
 - **shadcn/ui**;
 - **TailwindCSS**;
@@ -59,4 +60,16 @@ This repository comes 🔋 packed with:
 - **Husky**;
 - **Lint staged**;
 
-[Back to :arrow_up:](#next-typescript--shadcnui--template "Back to 'Table of contents' section")
+---
+
+## Preview
+
+![Pentaomnia Preview](./public/images/page.png)
+Url: https://pentaomnia.com
+---
+
+## :lock: License
+
+This website is not available for open source. Copying or redistributing this code is strictly illegal.
+
+[Back to :arrow_up:](#pentaomniacom "Back to 'Table of contents' section")
